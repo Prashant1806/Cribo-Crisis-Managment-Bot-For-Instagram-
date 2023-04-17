@@ -1,4 +1,4 @@
-#Influencer Crisis Management Tool
+**#Influencer Crisis Management Tool**
 
 The Influencer Crisis Management Tool is an AI-powered chatbot that helps social media influencers manage crises related to their social media presence. The chatbot can analyze negative feedback, identify the source of the issue, and suggest strategies for addressing the problem and restoring the influencer's reputation.
 
